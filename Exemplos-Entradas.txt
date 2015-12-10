@@ -1,0 +1,36 @@
+		ENTRADAS-EXEMPLOS
+
+   EXEMPLO 1
+Criando matriz 4x4 e adicionando 20 na posição (2,2) e 30 na posição (3,2)
+EX:
+4 4
+1
+20 2 2
+1
+30 3 2
+
+   EXEMPLO 2
+Após colocar dados na matriz e com o menu aberto(como no exemplo 1), podemos fazer a consulta do valor de uma posição (x,y)
+No exemplo 2 consultaremos linha 2 e coluna 2
+EX:
+2
+2 2
+
+   EXEMPLO 3
+Após colocar dados na matriz e com o menu aberto(como no exemplo 1), podemos fazer a consulta da soma de uma linha
+No exemplo 3 consultaremos a soma da linha 1
+EX:
+3
+1
+
+   EXEMPLO 4
+Após colocar dados na matriz e com o menu aberto(como no exemplo 1), podemos fazer a consulta da soma de uma coluna
+No exemplo 4 consultaremos a soma da coluna 2
+EX:
+4
+2
+
+   EXEMPLO 5
+Após colocarmos dados na matriz e com o menu aberto(como no exemplo 1), podemos fazer a exclusão da matriz
+EX:
+5
